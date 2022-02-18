@@ -1,3 +1,5 @@
 body {background-color: #c9f3ff} 
-h2,h1,h3 {font-family: Courier New;}
+h2,h1,h3 {font-family: Georgia;}
 p {font-family: Georgia}
+.column {float: left; width: 33.33%;}
+.row after {content: ""; display: table; clear:both;}
