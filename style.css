@@ -1,5 +1,22 @@
-body {background-color: #c9f3ff} 
-h2,h1,h3 {font-family: Georgia;}
-p {font-family: Georgia}
-.column {float: left; width: 33.33%;}
-.row after {content: ""; display: table; clear:both;}
+body {
+    background-color: #ffffff
+} 
+h2,h1,h3 {
+    font-family: Georgia;
+}
+p {
+    font-family: Georgia
+}
+.column-container {
+    display: table;
+    width: 100%;
+}
+.column-top {
+    display: table-cell;
+    width: 33.33%;
+}
+
+.column-bottom {
+    display: table-cell;
+    width: 33.33%;
+}
