@@ -1,0 +1,134 @@
+body {
+    background-color: #ffffff
+} 
+
+h2,h1,h3, p, li {
+    font-family: Georgia;
+}
+
+.column-container {
+    display: table;
+    width: 100%;
+}
+
+.column {
+    display: table-cell;
+    width: 33.33%;
+    padding: 0 15px;
+}
+
+.nav-bar {
+    background-color: #d9cbc2;
+    overflow: hidden;
+}
+
+.nav-bar-links{
+    float: left;
+    padding: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color: black;
+}
+
+.img-column{
+    display:table-cell;
+    float: left;
+    padding: 0 15px;  
+}
+
+.int-img-column{
+    display:table-cell;
+    float: left;
+}
+
+.int-img-column-r {
+    display: table-cell;
+    padding-right: 175px;
+    padding-top: 100px;
+    float: right;
+    text-align: center;
+}
+.text {
+    font-size: large;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.text2 {
+    font-size: large;
+    text-align: center;
+    width: 53.75%;
+}
+
+.text22 {
+    width: 53.75%;
+}
+
+.header2 {
+    font-size: larger;
+    padding-left: 325px;
+}
+
+.column2 {
+    display: table-cell;
+    width: 50%;
+    text-align: center;
+    padding: 0 15px;
+}
+
+.align-text {   
+    font-size: large;
+    text-align: center;
+}
+
+
+
+.four-align-img {
+    display: table-cell;
+    width: 27%; 
+    
+}
+    
+.four-align-text {
+    display: table-cell;
+    padding-right: 95px;
+    text-align: center;
+}
+
+.four-align-texts {
+    display: table-cell;
+    padding-left: 30px;
+    text-align: center;
+}
+
+.four-align-textss {
+    display: table-cell;
+    padding-left: 70px;
+    text-align: center;
+}
+
+
+.text3 {
+    text-align:center;
+
+}
+
+.two-align-img {
+    display: table-cell;
+    width: 50%; 
+    padding-top: 15px;
+    font-size: large;
+}
+
+
+.three-align-img {
+    display: table-cell;
+    width: 50%; 
+    text-align: center;
+}
+
+.vid {
+    display: table-cell;
+    width: 33.33%;
+    text-align: center;
+}
